@@ -8,7 +8,7 @@ const NavBar = () => {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="title" color="inherit">
-                React Course
+                Online courses
                 </Typography>
             </Toolbar>
         </AppBar>
