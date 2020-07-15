@@ -1,14 +1,15 @@
-import React from 'react';
+import React from 'react'
 import AppBar from '@material-ui/core/AppBar'
 import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
+
 const NavBar = () => {
     return(
         <div>
-        <AppBar position="static">
+        <AppBar  position="static">
             <Toolbar>
-                <Typography variant="title" color="inherit">
-                Online courses
+                <Typography variant="title" color="inherit" style={{fontWeight: "bold"}}>
+                     ONLINE COURSES
                 </Typography>
             </Toolbar>
         </AppBar>
