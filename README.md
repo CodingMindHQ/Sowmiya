@@ -1,6 +1,11 @@
 TO CREATE A SAMPLE APPLICATION USING MATERIAL-UI-LIBRARIES AND DEPENDENCIES
 
+Online Course
+
 Step1:Installation
+You should install following application in order to run this code on your system:
+Install Microsoft VisualCode
+Install Nodejs
 i) npx create-react-app react-material-ui
     the npx command (which is part of the Node Package Manager (NPM) installation is used to execute create-react-app
     without the need to download and install it first.
